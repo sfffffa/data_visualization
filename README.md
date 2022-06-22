@@ -7,6 +7,9 @@
 ## Build Setup
 
 ```bash
+# 克隆项目
+git clone git@github.com:sfffffa/data_visualization.git
+
 # 进入项目目录
 cd lab3-data-visualization
 
@@ -46,4 +49,11 @@ npm run lint
 
 # 代码格式检查并自动修复
 npm run lint -- --fix
+```
+## 本项目参考框架
+
+```bash
+# 克隆项目
+git clone git@github.com:PanJiaChen/vue-element-admin.git
+
 ```
